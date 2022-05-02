@@ -1,0 +1,10 @@
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/price_parser_of_goods.iml
+/notebooks/.ipynb_checkpoints/parse_notebook_BeautifulSoup-checkpoint.ipynb
+/notebooks/.ipynb_checkpoints/parse_notebook_ Selenium-checkpoint.ipynb
+/.idea/modules.xml
+/.idea/misc.xml
+/notebooks/geckodriver.log
+/.idea/.gitignore
