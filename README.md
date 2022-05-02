@@ -1,1 +1,1 @@
-# price_parser_ofgoods
+# price_parser_of_goods
